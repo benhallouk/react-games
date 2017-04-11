@@ -1,2 +1,3 @@
-# react-games
-set of games using reactjs
+# Reactjs Games
+
+Set of games using `Reactjs`
