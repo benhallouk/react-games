@@ -1,0 +1,29 @@
+.card {
+	margin-top: 10px;
+}
+
+.fa-star{
+	margin: 4px;
+  font-size: 24px;
+  color: #e4af44;
+}
+
+span {
+		width: 24px;
+    text-align: center;
+		display: inline-block;    
+    border-radius: 10px;
+    background: #eceeef;
+    margin: 4px;
+    cursor:pointer;    
+}
+
+span.used {
+	background-color: #beecbe;
+  color: #739c73;
+}
+
+span.selected {
+  background-color: #f3f3f3;
+  color: #cecece;
+}
